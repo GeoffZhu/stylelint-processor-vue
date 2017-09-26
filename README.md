@@ -2,9 +2,9 @@
 
  Fork from https://github.com/stylelint/stylelint/blob/7.2.0/src/__tests__/fixtures/processor-html.js
 
- Fix some bug for .vue file, there are a fixed list
+ Fix some bug for .vue file, Here's a list of issue have been fixed.
 
- - [line mapping not working right](https://github.com/ccbikai/stylelint-processor-html/issues/1)  Auther [@runfastlynda](https://github.com/runfastlynda)
+ - [line mapping not working right](https://github.com/ccbikai/stylelint-processor-html/issues/1) auther [@runfastlynda](https://github.com/runfastlynda)
 
 ## Usage
 
