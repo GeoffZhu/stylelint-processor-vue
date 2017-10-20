@@ -1,5 +1,8 @@
 # stylelint-processor-vue
 
+## DEPRECATED！ Recommend [@mapbox/stylelint-processor-arbitrary-tags](https://github.com/mapbox/stylelint-processor-arbitrary-tags)
+
+
  Fork from https://github.com/stylelint/stylelint/blob/7.2.0/src/__tests__/fixtures/processor-html.js
 
  Fix some bug for .vue file, Here's a list of issue have been fixed.
